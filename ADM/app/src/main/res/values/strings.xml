@@ -1,9 +1,3 @@
 <resources>
-    <string name="Ola_Adm">ola ADM</string>
-    <string name="Meu_Pix">PIX</string>
-    <string name="Emite_B_C">Boleto/Carne</string>
-    <string name="Extrato">Extrato</string>
-    <string name="Fluxo_Caixa">Fluxo_Caixa</string>
-    <string name="Saldo">Saldo</string>
-
+    <string name="app_name">ADM</string>
 </resources>

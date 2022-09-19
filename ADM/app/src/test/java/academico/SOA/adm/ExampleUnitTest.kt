@@ -1,4 +1,4 @@
-package Arquitetura.SoA.adm
+package academico.SOA.adm
 
 import org.junit.Test
 
